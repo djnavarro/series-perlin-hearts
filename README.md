@@ -6,4 +6,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-An art repository at <https://djnavarro.net/series-perlin-hearts>
+[Perlin Hearts](https://art.djnavarro.net/gallery/perlin-hearts/) is an
+art repository by Danielle Navarro, released under a [CC0 public domain
+licence](./LICENSE.md)
